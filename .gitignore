@@ -6,4 +6,7 @@ src/f1tenth_course/
 src/ut_automata/
 *.kdev*
 config/car.lua
-.vscode
+**/.vscode
+**/simulator
+**/step_simulator
+**/websocket
